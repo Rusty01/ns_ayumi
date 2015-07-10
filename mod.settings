@@ -1,5 +1,0 @@
-name        = "ns_ayumi"
-source_dir  = "source/"
-output_dir  = "output/"
-description = [=[]=]
-image       = "preview.jpg"
